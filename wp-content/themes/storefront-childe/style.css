@@ -1,0 +1,31 @@
+/*
+Theme Name: Storefront-child
+Template: storefront
+Author: Ali
+Version: 1.0
+*/
+
+
+
+
+#main {
+    list-style: none;
+}
+
+.socialMedia {
+    list-style: none;
+}
+
+.wp-container-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.wp-container-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.site-footer h2 {
+    text-align: center;
+}
